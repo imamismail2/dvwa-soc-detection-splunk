@@ -15,7 +15,7 @@ This lab was conducted in an isolated environment for educational purposes only.
 
 ---
 
-# 🛡️ MITRE ATT&CK Mapping (`mitre/mitre_attack_mapping.md`)
+# 🛡️ MITRE ATT&CK Mapping 
 
 ```markdown
 # MITRE ATT&CK Mapping – DVWA SOC Lab
